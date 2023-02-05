@@ -1,5 +1,6 @@
 # Calculator-With-Voice-Command
 This is a Calculator which works on voice command build with python
+For DemoPurpose you can download and run Calculator.cpython-310.cpy file
 
 Modules Used:-
 
